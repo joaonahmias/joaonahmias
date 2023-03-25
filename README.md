@@ -1,6 +1,6 @@
 ## Olá, sou o João Nahmias
 
-- 🌱 Atualemnte estudo programação web utilizando Spring boot
+- 🌱 Atualmente estudo programação web utilizando Spring boot
 - 👯 Viso o desenvolvimento Back-end para web
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaonahmias&show_icons=true&theme=gruvbox)
