@@ -12,6 +12,7 @@
 
 <a href="https://www.youtube.com/watch?v=ZzDDmi7JhEo"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+<br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&pause=1000&color=black=true&multiline=true&repeat=false&width=435&lines=Habilidades%3A)](https://git.io/typing-svg)
 
@@ -24,6 +25,8 @@
   <img align="center" alt="Nahmias-Postgres" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Nahmias-Mysql" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 </div>
+
+<br>
 
 <br>
 
