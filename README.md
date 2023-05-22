@@ -5,7 +5,7 @@
 <br>
 
 - Atualmente estudo programação web utilizando Spring boot
-- Viso o desenvolvimento Back-end para web
+- Viso a manipulação de uma imagem (ou dado) utilizando processamento digital de imagem  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaonahmias&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaonahmias&layout=compact&theme=tokyonight&hide_progress=true)](https://github.com/joaonahmias/github-readme-stats)
