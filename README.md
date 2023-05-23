@@ -7,12 +7,12 @@
 - Atualmente estudo programação web utilizando Spring boot
 - Viso a manipulação de uma imagem (ou dado) utilizando processamento digital de imagem  
 
-<a href="https://www.youtube.com/watch?v=ZzDDmi7JhEo"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
 <a href="https://github.com/joaonahmias">
-    	<img height="150em" src="https://github-readme-stats.vercel.app/api?username=joaonahmias&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/>
-    	<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaonahmias&theme=tokyonight&hide_border=false&&layout=compact"/>
+    	<img src="https://github-readme-stats.vercel.app/api?username=joaonahmias&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/>
+    	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaonahmias&theme=tokyonight&hide_border=false&&layout=compact"/>
   	</a>
+
+<a href="https://www.youtube.com/watch?v=ZzDDmi7JhEo"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
     
 <br>
 
