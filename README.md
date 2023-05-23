@@ -6,7 +6,7 @@
 
 - Atualmente estudo programação web utilizando Spring boot
 - Viso a manipulação de uma imagem (ou dado) utilizando processamento digital de imagem  
-- 
+
 <a href="https://www.youtube.com/watch?v=ZzDDmi7JhEo"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <br>
