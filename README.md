@@ -7,8 +7,8 @@
 - Atualmente estudo programação web utilizando Spring boot
 - Viso a manipulação de uma imagem (ou dado) utilizando processamento digital de imagem  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaonahmias&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaonahmias&layout=compact&theme=tokyonight&hide_progress=true)](https://github.com/joaonahmias/github-readme-stats)
+ <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=joaonahmias&show_icons=true&theme=tokyonight"/> 
+ <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaonahmias&layout=compact&theme=tokyonight&hide_progress=true" />
 
 <a href="https://www.youtube.com/watch?v=ZzDDmi7JhEo"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
