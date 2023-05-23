@@ -11,8 +11,8 @@
 
 
 <a href="https://github.com/joaonahmias">
-    	<img height = "190" src="https://github-readme-stats.vercel.app/api?username=joaonahmias&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/>
-    	<img height = "190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaonahmias&theme=tokyonight&layout=compact&hide_progress=true"/>
+    	<img height = "160" src="https://github-readme-stats.vercel.app/api?username=joaonahmias&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/>
+    	<img height = "160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaonahmias&theme=tokyonight&layout=compact&hide_progress=true"/>
 </a>
 <br>
 <br>
