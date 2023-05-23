@@ -3,17 +3,25 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Bebas+Neue&color=black&size=30&left=true&width=1000&lines=Olá!+Sou+o+João+Nahmias;Bem+Vindo+:%29)](https://git.io/typing-svg)
 <a href="https://www.youtube.com/watch?v=ZzDDmi7JhEo"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <br>
+<br>
 
 - Atualmente estudo programação web utilizando Spring boot
 - Viso a manipulação de uma imagem (ou dado) utilizando processamento digital de imagem  
+<br>
+
 
 <a href="https://github.com/joaonahmias">
-    	<img src="https://github-readme-stats.vercel.app/api?username=joaonahmias&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/>
-    	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaonahmias&theme=tokyonight&hide_border=false&&layout=compact"/>
-  	</a>
+    	<img height = "190" src="https://github-readme-stats.vercel.app/api?username=joaonahmias&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/>
+    	<img height = "190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaonahmias&theme=tokyonight&layout=compact&hide_progress=true"/>
+</a>
+<br>
+<br>
+<br>
+
 
 <a href="https://www.youtube.com/watch?v=ZzDDmi7JhEo"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-    
+
+
 <br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&pause=1000&color=black=true&multiline=true&repeat=false&width=435&lines=Habilidades%3A)](https://git.io/typing-svg)
@@ -42,4 +50,3 @@
  </div>
  
  <br>
-
