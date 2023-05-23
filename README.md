@@ -9,6 +9,11 @@
 
 <a href="https://www.youtube.com/watch?v=ZzDDmi7JhEo"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+<a href="https://github.com/joaonahmias">
+    	<img height="150em" src="https://github-readme-stats.vercel.app/api?username=joaonahmias&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/>
+    	<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaonahmias&theme=tokyonight&hide_border=false&&layout=compact"/>
+  	</a>
+    
 <br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&pause=1000&color=black=true&multiline=true&repeat=false&width=435&lines=Habilidades%3A)](https://git.io/typing-svg)
