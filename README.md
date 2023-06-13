@@ -56,7 +56,7 @@
  <br>
  <br>
  <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=joaonahmias&label=Profile%20views&color=23238B&style=background:#3630a3;color:white;" alt="joaonahmias" height="30" />
+  <img src="https://komarev.com/ghpvc/?username=joaonahmias&label=Profile%20views&color=23238B&style=background:#3630a3;color:white;" alt="joaonahmias" height="25" />
 </p>
 
   
