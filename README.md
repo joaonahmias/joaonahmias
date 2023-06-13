@@ -55,6 +55,9 @@
 <a href="https://www.youtube.com/watch?v=ZzDDmi7JhEo"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
  <br>
  <br>
- <p align="center"> <img src="https://komarev.com/ghpvc/?username=joaonahmias&label=Profile%20views&color=7f2299&style=background:#3630a3;color:white;" alt="joaonahmias" /> </p>
+ <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=joaonahmias&label=Profile%20views&color=23238B&style=background:#3630a3;color:white;" alt="joaonahmias" height="30" />
+</p>
+
   
  <br>
