@@ -51,6 +51,8 @@
  <br>
  <br>
  
+
+![Snake animation](https://github.com/joaonahmias/joaonahmias/blob/output/github-contribution-grid-snake.svg)
  
 <a href="https://www.youtube.com/watch?v=ZzDDmi7JhEo"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
  <br>
